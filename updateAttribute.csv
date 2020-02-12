@@ -1,0 +1,6 @@
+Entity,Attribute,Logical_Data_Type,Definition,Comment
+Department,Department Identifier,NUMBER,Unique id for a department,aaa
+Department,Department Description,VARCHAR2(27),Description of tasks handled and managed in a department.,bbb
+Employee,Employee Identifier,NUMBER(8),Unique id of an Employee.,ccc
+Employee,Employee Social Security Number,CHAR(10),Social Security number of an Employee.,ddd
+Employee,Employee Last Name,VARCHAR2(25),Employees last name.,eee
